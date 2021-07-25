@@ -27,6 +27,13 @@
           "model": "Fold 512GB Preto",
           "image": "https://http2.mlstatic.com/D_NQ_NP_647752-MLA42095075690_062020-O.jpg",
           "price": "R$ 9169,00"
+      },
+    {
+          "id": "5",
+          "name": "Samsung Galaxy",
+          "model": "Fold 512GB Preto",
+          "image": "https://http2.mlstatic.com/D_NQ_NP_647752-MLA42095075690_062020-O.jpg",
+          "price": "R$ 9169,00"
       }
           
   ]
