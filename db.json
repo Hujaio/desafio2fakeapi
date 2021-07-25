@@ -1,8 +1,9 @@
 {
   "products": [
-    { "id": 1, "titulo": "Entendendo o ES6", "url": "/p/CPG-j3vg1Jp/" },
-    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
-    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
-    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
+    "id": "1",
+          "name": "iPhone",
+          "model": "7 32GB Preto Matte",
+          "image": "https://i.postimg.cc/RFjwx09y/iphone-7plus.png",
+          "price": "R$ 1519,00"
   ],
 }
