@@ -1,5 +1,5 @@
 {
   "cursos": [
-    { "id": 1, "image": "Entendendo o ES6", "name": "https://www.codeprestige.com.br/cursos/es6", "model": "", "price": "" },
+    { "id": 1, "image": "https://www.coelhopapelaria.com.br/wp-content/uploads/2018/10/Papelaria-Coelho-a-melhor-papelaria-de-Palho%C3%A7a-SC-13.jpeg", "name": "https://www.codeprestige.com.br/cursos/es6", "model": "", "price": "" },
   ],
 }
