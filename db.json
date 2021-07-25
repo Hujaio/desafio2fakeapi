@@ -2,10 +2,10 @@
   "products": [
       {
           "id": "1",
-          "name": "iPhone",
-          "model": "7 32GB Preto Matte",
-          "image": "https://www.coelhopapelaria.com.br/wp-content/uploads/2018/10/Papelaria-Coelho-a-melhor-papelaria-de-Palho%C3%A7a-SC-13.jpeg",
-          "price": "R$ 1519,00"
+          "name": "Máscara infantil",
+          "model": "Meninas superpoderosas",
+          "image": "https://img.elo7.com.br/product/original/3307453/mascaras-tal-mae-tal-filha-meninas-super-poderosas.jpg",
+          "price": "R$ 15,00"
       },
       {
           "id": "2",
